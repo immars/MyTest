@@ -1,0 +1,3 @@
+[submodule "MyModule"]
+	path = MyModule
+	url = git@github.com:immars/MyModule.git
